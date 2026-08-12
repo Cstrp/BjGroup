@@ -1,0 +1,31 @@
+@import 'reset';
+@import 'home';
+@import "vuetify/styles";
+
+*,
+*::before,
+*::after {
+  box-sizing: border-box;
+  position: relative;
+  font-weight: normal;
+}
+
+img {
+  width: 100%;
+  height: auto;
+}
+
+li {
+  list-style: none;
+}
+
+a {
+  text-decoration: none;
+  color: #000000;
+}
+
+span {
+  background-color: transparent !important;
+}
+
+
