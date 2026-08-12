@@ -1,9 +1,21 @@
 {
   "name": "bjgroup",
   "version": "1.0.0",
-  "description": "",
+  "description": "BJ Group website built with Vue 3, Vite, and Netlify auto-deploy via GitHub Actions.",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/Cstrp/BjGroup.git"
+  },
   "scripts": {},
-  "keywords": [],
+  "keywords": [
+    "vue",
+    "vite",
+    "netlify",
+    "pnpm",
+    "frontend",
+    "landing-page",
+    "bj-group"
+  ],
   "author": "",
   "license": "ISC",
   "devEngines": {
